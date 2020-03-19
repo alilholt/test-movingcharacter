@@ -1,0 +1,17 @@
+{
+    "name": "test movingCharacter",
+    "dependencies": {
+        "device": "*",
+        "movingCharacter": "github:alilholt/movingcharacter#patch-1"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
